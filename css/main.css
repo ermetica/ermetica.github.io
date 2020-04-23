@@ -25,7 +25,7 @@ body {
 /* Remove extra left and right margins, due to padding */
 
 .row {
-    margin: 0 -5px;
+    margin: 0 -15px;
 }
 
 
@@ -52,10 +52,11 @@ body {
 /* Style the counter cards */
 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 1);
     padding: 8px;
-    background-color: #f1f1f1;
+    background-color: rgba(255, 255, 255, 1);
     margin-top: 5px;
+    border: none;
 }
 
 .container {
