@@ -1,4 +1,4 @@
-# https://ermetica.gitlab.io/
+# https://ermetica.github.io/
 # Agencia de Información de Código Abierto, Free Software 
 
 # Principios Universales de la Información del Proyecto Ermetica
